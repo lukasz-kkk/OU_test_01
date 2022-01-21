@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.20)
-project(OU_Clion_Git)
+project (OU_Clion_Git)
 
 set(CMAKE_CXX_STANDARD 14)
 
